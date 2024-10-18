@@ -54,8 +54,8 @@
     /* change to block to show, none to hide */
     --discord-icon: none; /* discord icon */
     --moon-icon: block; /* moon icon */
-    --moon-icon-url: url('https://github.com/F4ir/F4irs-midnight/blob/main/images/logo.png?raw=true'); /* custom icon url */
-    --moon-icon-size: auto;
+    --moon-icon-url: url('NEED TO BE SVG FILE'); /* custom icon url */ 
+    --moon-icon-size: auto; 
     /* filter uncolorable elements to fit theme */
     /* (just set to none, they're too much work to configure) */
     --login-bg-filter: saturate(0.3) hue-rotate(-15deg) brightness(0.4); /* login background artwork */
@@ -827,8 +827,8 @@ button.button_dd4f85 /* small buttons */,
     border-radius: 50%;
 }
 /* custom dm button background instead of icon */
-/* .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
+	background: url('https://github.com/F4ir/F4irs-midnight/blob/main/images/logo.png?raw=true');
 	background-color: transparent !important;
 	background-size: cover;
 } 
