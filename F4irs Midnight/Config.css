@@ -1,7 +1,7 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
-@import url('https://raw.githubusercontent.com/F4ir/-Jeroen-/refs/heads/main/MidnightBehind.css');
+@import url('https://raw.githubusercontent.com/F4ir/F4irs-midnight/refs/heads/main/F4irs%20Midnight/Source/MidSource.css');
 
 /* customize things here */
 :root {
@@ -9,7 +9,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Midnight';
+	--corner-text: 'F4ir';
 
 	/* accent colors */
         --accent-1: hsl(255, 65%, 57%); /* links (was accent-2) */
