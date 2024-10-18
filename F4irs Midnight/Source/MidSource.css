@@ -731,7 +731,7 @@ button.button_dd4f85 /* small buttons */,
         font-family: var(--font);
         font-size: 13px;
         font-weight: 900;
-        color: var(--text-5);
+        color: rgb(153, 10, 222);
         transform: scaleX(1.2);
         margin-left: 6px;
     }
